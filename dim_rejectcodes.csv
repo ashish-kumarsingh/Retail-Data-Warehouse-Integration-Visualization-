@@ -1,0 +1,11 @@
+DI_Reject_SK,DI_RejectCode,DI_RejectReason,DI_RejectDescription,SOR_ID
+1001,10,No Product_SK,Product_SK is 0 ,10001
+1002,20,No Store_SK,Store SK is 0,10002
+1003,30,No Geo_SK,Geo_SK is 0,10003
+1004,40,No Customer_SK,Customer SK is 0,10004
+1005,50,No Channel_SK,Channel_SK is 0,10005
+1006,60,No Currency_SK,CurrencySK is 0,10006
+1007,80,No ScenarioSK,ScenarioSK is 0,10007
+1008,100,No EntitySK,Entity SK is 0,10008
+1009,200,No AccountSK,Account SK is 0,10009
+1010,300,No promotuion sk,Promotion sk Is 0,10010
